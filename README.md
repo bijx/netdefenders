@@ -2,6 +2,8 @@
 
 A game built using Unity in C#. Protect your top level website domain from online attackers in a survival styled FPS game.
 
+![Banner](https://imgur.com/hoZ3giX.jpg)
+
 ## Installation
 
 Clone to desktop or download zip. Make sure data folder is in the same directory as the executable. When the Unity configuration window appears, select preferred settings and press "Play!".
@@ -34,7 +36,7 @@ T - Repair turret when looking at it
 3 - Buy grenades (when in base)
 ```
 
-![Banner](https://imgur.com/hoZ3giX.jpg)
+
 
 ## Game Details
 ### Basics
